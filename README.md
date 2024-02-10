@@ -1,0 +1,2 @@
+# Amazon-Clone
+USING HTML, CSS, JAVASCRIPT
